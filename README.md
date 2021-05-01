@@ -1,10 +1,10 @@
 # Dynamic ORMs
 
-## Objectives
+## Learning Goals
 
-1. Explain why a dynamic ORM is useful to us as developers
-2. Build a basic dynamic ORM
-3. Build a dynamic ORM that can be used by any given Ruby class
+- Explain why a dynamic ORM is useful to us as developers
+- Build a basic dynamic ORM
+- Build a dynamic ORM that can be used by any given Ruby class
 
 ## Why Dynamic ORMs?
 
@@ -463,7 +463,3 @@ Now that we have all of these great dynamic, abstract methods that connect a cla
 [SQLite- PRAGMA](http://www.tutorialspoint.com/sqlite/sqlite_pragma.htm)
 
 [PRAGMA](https://www.sqlite.org/pragma.html#pragma_table_info)
-
-
-
-
